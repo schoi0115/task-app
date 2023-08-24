@@ -10,6 +10,7 @@ const Header = ({ title, onAdd, show }) => {
                 color={show ? "red" : "green"}
                 text={show ? 'close' : 'add'}
             />
+            
 
         </header>
 
